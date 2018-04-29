@@ -4,12 +4,12 @@
 ### 디자인 패턴의 종류
 
 ```markdown
-*스트래티지 패턴 (strategy pattern)*
+**스트래티지 패턴 (strategy pattern)**
 
 교환 가능한 행동을 캡슐화하고 위임을 통해서 어떤 행동을 사용할지 결정한다.
 
 
-- 옵저버 패턴 (observer pattern)
+#옵저버 패턴 (observer pattern)
 
 상태가 변경되면 다른 객체들한테 연락을 돌릴 수 있게 한다.
 
