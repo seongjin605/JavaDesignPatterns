@@ -25,7 +25,6 @@ public class PatternInJava {
 		System.out.println("=====================================");
 		System.out.println("person2의 정보 : " + "\n"+ person2.getSsn() + "\n"+ person2.getName()+ 
 				"\n"+person2.getAge());
-
 	}
 
 }
