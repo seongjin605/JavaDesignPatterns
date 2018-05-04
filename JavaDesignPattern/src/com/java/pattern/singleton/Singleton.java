@@ -1,4 +1,4 @@
-package singleton;
+package com.java.pattern.singleton;
 
 import java.io.Serializable;
 
@@ -10,7 +10,7 @@ import java.io.Serializable;
 3. enum class를 사용해 새로운 상수들의 타입을 정의함으로 정의한 타입이외의 타입을 가진 데이터값을 컴파일시 체크한다.
 
 4. 키워드 enum을 사용하기 때문에 구현의 의도가 열거임을 분명하게 알 수 있습니다.
- */
+*/
 public enum Singleton implements Serializable {
 	INSTANCE;
 	int value;
