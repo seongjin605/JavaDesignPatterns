@@ -2,6 +2,7 @@
 
 
 ###Creational pattern
+
 ```markdown
 #Abstract Factory pattern
 구체적인 클래스를 지정하지 않고 관련성을 갖는 객체들의 집합을 생성하거나 
@@ -25,6 +26,7 @@ Composite 객체의 생성 과정과 표현 방법을 분리하여
 ```
 
 ###Structural pattern
+
 ```markdown
 #Adapter
 클래스의 인터페이스를 사용자가 기대하는 다른 인터페이스로 변환하는 패턴으로, 
@@ -54,6 +56,7 @@ Composite 객체의 생성 과정과 표현 방법을 분리하여
 ```
 
 ###Behavioral pattern
+
 ```markdown
 #Chain of Responsibility
 요청을 처리할 수 있는 기회를 하나 이상의 객체에게 부여하여 요청을 보내는 객체와 
