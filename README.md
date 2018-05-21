@@ -4,7 +4,7 @@
 ### 디자인 패턴의 종류
 
 ```markdown
-#스트래티지 패턴 (strategy pattern)
+`스트래티지 패턴 (strategy pattern)`
 
 교환 가능한 행동을 캡슐화하고 위임을 통해서 어떤 행동을 사용할지 결정한다.
 
@@ -14,12 +14,12 @@
 상태가 변경되면 다른 객체들한테 연락을 돌릴 수 있게 한다.
 
 
-#데코레이터 패턴 (decorator pattern)
+##데코레이터 패턴 (decorator pattern)
 
 객체를 감싸서 새로운 행동을 제공한다.
 
 
-#팩토리 패턴 (factory pattern)
+###팩토리 패턴 (factory pattern)
 
 생성할 구상 클래스를 서브클래스에서 결정한다.
 
