@@ -1,12 +1,13 @@
 ### JavaDesignPatterns : Elements of Reusable Object-Oriented Software
 
 
-###Creational pattern
+### Creational pattern
 
 ```markdown
 #Abstract Factory pattern
-구체적인 클래스를 지정하지 않고 관련성을 갖는 객체들의 집합을 생성하거나 
+>구체적인 클래스를 지정하지 않고 관련성을 갖는 객체들의 집합을 생성하거나 
 서로 독립적인 객체들의 집합을 생성할 수 있는 인터페이스를 제공하는 패턴.
+
 
 #Builder pattern
 Composite 객체의 생성 과정과 표현 방법을 분리하여 
@@ -25,7 +26,7 @@ Composite 객체의 생성 과정과 표현 방법을 분리하여
 이 인스턴스에 접근할 수 있는 전역적인 접촉점을 제공하는 패턴.
 ```
 
-###Structural pattern
+### Structural pattern
 
 ```markdown
 #Adapter
@@ -55,7 +56,7 @@ Composite 객체의 생성 과정과 표현 방법을 분리하여
 그 객체의 대리자(surrogate) 또는 자리채움자(placeholder)를 제공하는 패턴.
 ```
 
-###Behavioral pattern
+### Behavioral pattern
 
 ```markdown
 #Chain of Responsibility
