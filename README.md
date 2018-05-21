@@ -3,6 +3,54 @@
 
 ### 디자인 패턴의 종류
 
+<<<<<<< HEAD
+=======
+```markdown
+`스트래티지 패턴 (strategy pattern)`
+
+교환 가능한 행동을 캡슐화하고 위임을 통해서 어떤 행동을 사용할지 결정한다.
+
+
+#옵저버 패턴 (observer pattern)
+
+상태가 변경되면 다른 객체들한테 연락을 돌릴 수 있게 한다.
+
+
+##데코레이터 패턴 (decorator pattern)
+
+객체를 감싸서 새로운 행동을 제공한다.
+
+
+###팩토리 패턴 (factory pattern)
+
+생성할 구상 클래스를 서브클래스에서 결정한다.
+
+
+#추상 팩토리 패턴 (AbstractFactory pattern)
+
+클라이언트에서 구상 클래스를 지정하지 않으면서도 일군의 객체를 생성할 수 있도록 한다.
+
+
+#싱글턴 패턴 (singleton pattern)
+
+딱 한 객체만 생성되도록 한다.
+
+
+#커맨드 패턴 (command pattern)
+
+요청을 객체로 감싼다.
+
+
+#어댑터 패턴 (adaptor pattern)
+
+객체를 감싸서 다른 인터페이스를 제공한다.
+
+
+#퍼사드 패턴 (facade pattern)
+
+일련의 클래스에 대해서 간단한 인터페이스를 제공한다.
+
+>>>>>>> 88a827c6bce99c767cadea84e7148f4485a3b681
 
 
 #####Creational pattern
