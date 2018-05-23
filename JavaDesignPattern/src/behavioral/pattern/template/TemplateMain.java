@@ -3,7 +3,7 @@ package behavioral.pattern.template;
 /**
  * @TemplateMethodPattern : 객체의 연산에는 알고리즘의 뼈대만을 정의하고 각 단계에서 수행할 구체적 처리는 서브클래스
  *                        쪽으로 미루는 패턴. 알고리즘의 구조 자체는 그대로 놔둔 채 알고리즘 각 단계의 처리를
- *                        서브클래스에서 재정의할 수 있게 함. 
+ *                        서브클래스에서 재정의할 수 있게 함.z
  *                        
  *                        ->Template Method 사용시 고려사항
  *                        Template Method는 위험성을 어느 정도 내포하고 있습니다. 바로 전체적인 프로세스가
